@@ -9,7 +9,7 @@
 @property --dtm-08-rounded-icons {
   syntax: "true | false";
   inherits: true;
-  initial-value: false;
+  initial-value: true;
   name: "Rounded Icons";
   note: "if you REALLY hate square icons";
 }
